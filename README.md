@@ -12,3 +12,6 @@ Hi 👋, I'm Valentin Ortiña.<br>A passionate Mern developer from Argentina.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VaRaOr&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<a href="https://app.daily.dev/VaRaOr"><img src="https://api.daily.dev/devcards/696a0bc1619d4286999132911198f92d.png?r=k3f" width="400" alt="Valen Ortiña's Dev Card"/></a>
